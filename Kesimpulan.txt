@@ -1,0 +1,36 @@
+Decision Tree:
+
+Precision: 80%
+Recall: 80%
+Accuracy: 70%
+
+Logistic Regression:
+
+Precision: 78%
+Recall: 75%
+Accuracy: 75%
+
+Analisis Metrik Evaluasi
+Accuracy:
+
+Logistic Regression memiliki accuracy yang lebih tinggi (75%) dibandingkan Decision Tree (70%).
+Precision:
+
+Decision Tree memiliki precision yang lebih tinggi (80%) dibandingkan Logistic Regression (78%).
+Precision yang lebih tinggi berarti model Decision Tree lebih baik dalam mengurangi false positives.
+Recall:
+
+Decision Tree memiliki recall yang lebih tinggi (80%) dibandingkan Logistic Regression (75%).
+Recall yang lebih tinggi berarti model Decision Tree lebih baik dalam mengurangi false negatives.
+
+
+
+Kesimpulan
+Berdasarkan metrik-metrik ini:
+
+Decision Tree: Memiliki precision dan recall yang lebih tinggi, tetapi accuracy lebih rendah.
+Logistic Regression: Memiliki accuracy yang lebih tinggi, tetapi precision dan recall lebih rendah.
+
+Kesimpulan Akhir
+Decision Tree: Lebih baik dalam precision dan recall.
+Logistic Regression: Lebih baik dalam accuracy.
